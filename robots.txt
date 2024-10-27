@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayukiafe.github.io/sitemap_index.ayukiafe
